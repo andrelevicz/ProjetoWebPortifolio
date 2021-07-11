@@ -1,0 +1,113 @@
+p {
+  font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.foto-perfil {
+  height: 200px;
+  max-width: 200px;
+  border-radius: 50%;
+}
+
+.icones {
+  padding-left: 5px;
+}
+
+#sobre-mim {
+  background-color: #0b0c2b;
+}
+
+#principal {
+  background-color: #0b0c2b;
+}
+#principal h1 {
+  color: white;
+  text-transform: uppercase;
+}
+#principal p {
+  color: white !important;
+}
+
+#menu {
+  background-color: #2c3e50;
+}
+#menu a {
+  color: white;
+}
+
+#iconesNav a {
+  color: white;
+}
+
+#containerProjetoWeb img {
+  height: 225px;
+  width: 100%;
+  display: block;
+}
+
+#containerProjetoMobile img {
+  height: 225px;
+  width: 100%;
+  display: block;
+}
+
+#contato div {
+  background-color: #0b0c2b;
+}
+#contato div .container-fluid h3 {
+  padding-top: 90px;
+}
+#contato div .container-fluid h4 {
+  padding-bottom: 90px;
+  margin-bottom: 0px;
+  color: white;
+}
+
+#rodape {
+  background-color: #2c3e50;
+  padding: 0px;
+  margin: 0px;
+}
+#rodape p {
+  margin: 0px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: white !important;
+}
+
+.titulosBrancos {
+  text-decoration: underline;
+  text-underline-position: under;
+  padding-bottom: 20px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: white;
+}
+
+.titulosAzuis {
+  text-decoration: underline;
+  text-underline-position: under;
+  padding-bottom: 20px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #0919f8;
+}
+
+.paragrafoBrancos {
+  color: white !important;
+}
+
+.jumbotron {
+  margin-bottom: 0px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+p {
+  color: black !important;
+}
+
+.itemMenu {
+  color: white;
+}/*# sourceMappingURL=styles.css.map */
